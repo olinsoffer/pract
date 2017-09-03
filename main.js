@@ -8,4 +8,3 @@ console.log('yooooooo')
 
 consle.log('heyyyy')
 
-console.log('its a teseeeeessssst')
